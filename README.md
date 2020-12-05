@@ -14,6 +14,8 @@
 [pip升级ValueErrorUnabletofindresource64.exeinpackagepip.vendor.distlib报错解决办法.md](pip升级ValueErrorUnabletofindresource64.exeinpackagepip.vendor.distlib报错解决办法.md)
 
 
+# 计划
+>近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
 
 ```bash
 livingbody
