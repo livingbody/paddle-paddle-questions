@@ -9,9 +9,9 @@
 
 [PaddlePaddle近期安装检查提示numpy不匹配问题解决办法.md](PaddlePaddle近期安装检查提示numpy不匹配问题解决办法.md)
 
-[PaddlePaddle飞桨安装提示error_MicrosoftVisual_Cplusplus_14.0_or_greater_is_required.md](PaddlePaddle飞桨安装提示errorMicrosoftVisualCplusplus14.0orgreateirequired.md)
+[PaddlePaddle飞桨安装提示errorMicrosoftVisualCplusplus14.0orgreateirequired.md](PaddlePaddle飞桨安装提示errorMicrosoftVisualCplusplus14.0orgreateirequired.md)
 
-[pip升级ValueError_Unabletofind_resourcet64.exe_in_packagepip.vendor.distlib报错解决办法.md](pip升级ValueErrorUnabletofindresource t64.exeinpackagepip.vendor.distlib报错解决办法.md)
+[pip升级ValueErrorUnabletofindresource64.exeinpackagepip.vendor.distlib报错解决办法.md](pip升级ValueErrorUnabletofindresource64.exeinpackagepip.vendor.distlib报错解决办法.md)
 
 
 
