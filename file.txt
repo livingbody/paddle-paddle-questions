@@ -1,0 +1,15 @@
+卷 program 的文件夹 PATH 列表
+卷序列号为 94AC-A579
+D:.
+    AI_studio_平台课程中的各类问题详解.md
+    CodeLab_ssh之pycharm编辑运行体验.md
+    file.txt
+    paddlepaddle入门的痛与快乐（Windows特有的爱）.md
+    PaddlePaddle近期安装检查提示numpy不匹配问题解决办法.md
+    PaddlePaddle飞桨安装提示error_ Microsoft Visual_C++_14.0_or_greater_is_required.md
+    pip升级ValueError_ Unable to find_resource t64.exe_in_package pip._vendor.distlib报错解决办法.md
+    README.md
+    windows本地安装paddle.md
+    
+没有子文件夹 
+
