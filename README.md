@@ -1,4 +1,4 @@
-# paddle-paddle-questions
+﻿# paddle-paddle-questions
 >我是小白白之PaddlePaddle常见问题集萃，欢迎大家的加入！
 
 [AI_studio_平台课程中的各类问题详解.md](AI_studio_平台课程中的各类问题详解.md)
@@ -13,6 +13,7 @@
 
 [pip升级ValueErrorUnabletofindresource64.exeinpackagepip.vendor.distlib报错解决办法.md](pip升级ValueErrorUnabletofindresource64.exeinpackagepip.vendor.distlib报错解决办法.md)
 
+[实战matplotlib图表常用自定义样式及字体花式解决](https://blog.csdn.net/weixin_41450123/article/details/111143738)
 
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
