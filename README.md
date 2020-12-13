@@ -15,6 +15,10 @@
 
 [实战matplotlib图表常用自定义样式及字体花式解决](https://blog.csdn.net/weixin_41450123/article/details/111143738)
 
+[linux磁盘空间不够，别急着重装系统](https://blog.csdn.net/weixin_41450123/article/details/111143960)
+
+[lxml 升级引起的其他使用问题](https://blog.csdn.net/weixin_41450123/article/details/111144084)
+
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
 
