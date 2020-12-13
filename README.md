@@ -25,6 +25,8 @@
 
 [手把手教你 win10 安装Paddlepaddle-GPU](https://blog.csdn.net/weixin_41450123/article/details/111144737)
 
+[Windows-paddle-深度学习环境搭建](https://blog.csdn.net/weixin_41450123/article/details/111144803)
+
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
 
