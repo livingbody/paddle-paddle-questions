@@ -19,6 +19,10 @@
 
 [lxml 升级引起的其他使用问题](https://blog.csdn.net/weixin_41450123/article/details/111144084)
 
+[PaddleX安装常见错误及处理](https://blog.csdn.net/weixin_41450123/article/details/111144556)
+
+[No moudle named pgl.graph_kernel和缺少dll问题安装过程中的常见错误](https://blog.csdn.net/weixin_41450123/article/details/111144244)
+
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
 
