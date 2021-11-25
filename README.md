@@ -29,6 +29,8 @@
 
 [近期PaddlePaddle遇到的deprecated警告解决方案](PaddlePaddle-meet-deprecated-warning.md)
 
+[The third-party dynamic library (cudnn64_7.dll) that Paddle depends on is not configured correctly解决办法](cuda-cudnn.md)
+
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
 
@@ -36,7 +38,7 @@
 livingbody
 2021.2020.12.6
 ```
-![img/1.jpg](img/1.jpg)
+![img](https://ai-studio-static-online.cdn.bcebos.com/6aab210e952b415f8fe354e8414822f92bdc837c2706415f8c222c6679c58ee8)
 
 
 
