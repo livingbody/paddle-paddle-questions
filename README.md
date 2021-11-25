@@ -1,4 +1,4 @@
-﻿# paddle-paddle-questions
+﻿﻿# paddle-paddle-questions
 >我是小白白之PaddlePaddle常见问题集萃，欢迎大家的加入！
 
 [AI_studio_平台课程中的各类问题详解.md](AI_studio_平台课程中的各类问题详解.md)
@@ -26,6 +26,8 @@
 [手把手教你 win10 安装Paddlepaddle-GPU](https://blog.csdn.net/weixin_41450123/article/details/111144737)
 
 [Windows-paddle-深度学习环境搭建](https://blog.csdn.net/weixin_41450123/article/details/111144803)
+
+[近期PaddlePaddle遇到的deprecated警告解决方案](PaddlePaddle-meet-deprecated-warning.md)
 
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
