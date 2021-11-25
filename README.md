@@ -1,4 +1,4 @@
-﻿﻿# paddle-paddle-questions
+﻿# paddle-paddle-questions
 >我是小白白之PaddlePaddle常见问题集萃，欢迎大家的加入！
 
 [AI_studio_平台课程中的各类问题详解.md](AI_studio_平台课程中的各类问题详解.md)
@@ -31,13 +31,13 @@
 
 [The third-party dynamic library (cudnn64_7.dll) that Paddle depends on is not configured correctly解决办法](cuda-cudnn.md)
 
+[**Ubuntu下安装PaddlePaddle-GPU**](https://aistudio.baidu.com/paddle/forum/topic/show/990902)
+
+[Out of memory error on GPU  解决办法](Out-of-memory-error-on-GPU.md)
+
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
 
-```bash
-livingbody
-2021.2020.12.6
-```
 ![img](https://ai-studio-static-online.cdn.bcebos.com/6aab210e952b415f8fe354e8414822f92bdc837c2706415f8c222c6679c58ee8)
 
 
