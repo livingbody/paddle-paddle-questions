@@ -35,6 +35,8 @@
 
 [Out of memory error on GPU  解决办法](Out-of-memory-error-on-GPU.md)
 
+[conda虚拟环境下如何安装jupyter-lab](conda-jupyter-lab.md)
+
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
 
