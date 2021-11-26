@@ -1,4 +1,4 @@
-﻿# paddle-paddle-questions
+﻿﻿# paddle-paddle-questions
 >我是小白白之PaddlePaddle常见问题集萃，欢迎大家的加入！
 
 [AI_studio_平台课程中的各类问题详解.md](AI_studio_平台课程中的各类问题详解.md)
@@ -36,6 +36,8 @@
 [Out of memory error on GPU  解决办法](Out-of-memory-error-on-GPU.md)
 
 [conda虚拟环境下如何安装jupyter-lab](conda-jupyter-lab.md)
+
+[修复ModuleNotFoundError: No module named 'pip’这个错误](No-module-named-pip.md)
 
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
