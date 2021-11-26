@@ -39,6 +39,8 @@
 
 [修复ModuleNotFoundError: No module named 'pip’这个错误](No-module-named-pip.md)
 
+[每次登录AiStudio社区都提示要短信验证码，特别烦怎么办？](AiStudio-login-question.md)
+
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
 
