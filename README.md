@@ -1,4 +1,4 @@
-﻿﻿# paddle-paddle-questions
+﻿﻿﻿# paddle-paddle-questions
 >我是小白白之PaddlePaddle常见问题集萃，欢迎大家的加入！
 
 [AI_studio_平台课程中的各类问题详解.md](AI_studio_平台课程中的各类问题详解.md)
@@ -42,6 +42,8 @@
 [每次登录AiStudio社区都提示要短信验证码，特别烦怎么办？](AiStudio-login-question.md)
 
 [OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054问题解决办法？](github_question.md)
+
+[aistudio解压缩注意事项.md](aistudio解压缩注意事项.md)
 
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
