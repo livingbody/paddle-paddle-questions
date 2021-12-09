@@ -43,7 +43,9 @@
 
 [OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054问题解决办法？](github_question.md)
 
-[aistudio解压缩注意事项.md](aistudio解压缩注意事项.md)
+[aistudio解压缩注意事项](aistudio解压缩注意事项.md)
+
+[想问下paddle各种套件的文档在哪里看啊？](paddle_doc.md)
 
 # 计划
 >近期PaddleHub特别火，和我一样的小白层出不穷，计划收集整理一顿各类错误，waiting....
